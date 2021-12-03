@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emckeon97
+- 👀 I’m interested in ... Technolgy! 
+- 🌱 I’m currently learning ... IT Support, Kotlin,Java
