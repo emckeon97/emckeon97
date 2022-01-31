@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @emckeon97
-- 🌱 I’m currently learning ... IT Support, Kotlin,Java
+- 🌱 I’m currently learning ... IT Support, Python, Kotlin
